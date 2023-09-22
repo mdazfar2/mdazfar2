@@ -3,9 +3,17 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdazfar2&label=Profile%20views&color=0e75b6&style=flat" alt="mdazfar2" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdazfar2" alt="mdazfar2" /></a> </p>
+
+- 🌱 My interests around **DevOps, automation, cloud Computing**
+
 - 👨‍💻 All of my projects are available at [http://www.linkedin.com/in/md-azfar-alam](http://www.linkedin.com/in/md-azfar-alam)
 
 - 📝 I regularly write articles on [https://medium.com/@azfaralam](https://medium.com/@azfaralam)
+
+- 💬 Ask me about **Docker, Ansible, AWS Cloud, Python**
 
 - 📫 How to reach me **mdazfaralam440@gmail.com**
 
@@ -13,11 +21,15 @@
 
 - ⚡ Empathy **Superpower that makes the world a better place.**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/md-azfar-alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/md-azfar-alam" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/azfarxx_?utm_source=qr&igshid=ogixmte0otdkza==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/azfarxx_?utm_source=qr&igshid=ogixmte0otdkza==" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@azfaralam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@azfaralam" height="30" width="40" /></a>
+<a href="https://medium.com/@azfaralam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@azfaralam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,4 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdazfar2&show_icons=true&locale=en" alt="mdazfar2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdazfar2&" alt="mdazfar2" /></p>
-
