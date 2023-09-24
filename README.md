@@ -30,7 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdazfar2&show_icons=true&locale=en" alt="mdazfar2" /></p>
 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush8358&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="piyush8358" />
-</p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdazfar2&" alt="mdazfar2" /></p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdazfar2&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="mdazfar2" />
+</p>
