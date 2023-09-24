@@ -34,3 +34,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdazfar2&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="mdazfar2" />
 </p>
+
+## Snack Eating my contribution graph 
+![snake gif](https://github.com/mdazfar2/mdazfar2/blob/output/github-contribution-grid-snake.gif)
