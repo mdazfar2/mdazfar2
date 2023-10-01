@@ -37,5 +37,3 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdazfar2&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="mdazfar2" />
 </p>
-
-[![@mdazfar2's Holopin board](https://holopin.me/mdazfar2)](https://holopin.io/@mdazfar2)
