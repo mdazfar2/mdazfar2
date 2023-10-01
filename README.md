@@ -1,4 +1,4 @@
-![logo](https://github.com/mdazfar2/mdazfar2/blob/main/Az%20banner.png)
+![logo](https://github.com/mdazfar2/mdazfar2/blob/main/AA%20banner.png)
 <h1 align="center">Hello 👋, I'm Azfar Alam</h1>
 <h3 align="center">A Passionate AI/ML & DevOps Enthusiast</h3>
 
