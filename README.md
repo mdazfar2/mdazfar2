@@ -1,30 +1,133 @@
-![logo](https://github.com/mdazfar2/mdazfar2/blob/main/Azfar%20Banner.png)
-<h1 align="center">Hello 👋, I'm Azfar Alam</h1>
-<h3 align="center">A Passionate AI/ML & DevOps Enthusiast</h3>
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+![Banner GitHub](https://github.com/mdazfar2/mdazfar2/blob/main/Azfar%20Banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdazfar2&label=Profile%20views&color=0e75b6&style=flat" alt="mdazfar2" /> </p>
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-- 👨‍💻 All of my projects are available at [http://www.linkedin.com/in/md-azfar-alam](http://www.linkedin.com/in/md-azfar-alam)
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmdazfar2%2Fmdazfar2&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <br><br>
+  <a href="https://medium.com/@azfaralam"><img src="https://img.shields.io/badge/medium-d5d5d5?style=for-the-badge&logo=medium&logoColor=0A0209"/></a>
+<!--   <a href="https://www.showwcase.com/mdazfar2"><img src="https://github.com/mdazfar2/mdazfar2/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a> -->
+  <a href="http://www.linkedin.com/in/md-azfar-alam/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
+  <a href="mailto:mdazfaralam440@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  <a href="https://discordapp.com/users/877531143610708028"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Azfar Alam#6950" ></a>
+  <a href="https://twitter.com/AzfarAlam22"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" alt="AzfarAlam22" ></a>
+</div>
+<br>
 
-- 📝 I regularly write articles on [https://medium.com/@azfaralam](https://medium.com/@azfaralam)
-
-- 📫 How to reach me *mdazfaralam440@gmail.com*
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UDSeevddgaFphc4hBAgO4dmrPZa2vbfv/view?usp=drivesdk](https://drive.google.com/file/d/1WK_dILqUYP2ZJ7ZBOCwB7o-WfjxP3xiW/view?usp=drivesdk)
-
-- ⚡ Empathy *Superpower that makes the world a better place.*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md-azfar-alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/md-azfar-alam" height="30" width="40" /></a>
-<a href="https://instagram.com/azfarxx_?utm_source=qr&igshid=ogixmte0otdkza==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/azfarxx_?utm_source=qr&igshid=ogixmte0otdkza==" height="30" width="40" /></a>
-<a href="https://medium.com/@azfaralam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@azfaralam" height="30" width="40" /></a>
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+ 
+ </a>
+ 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center"> Meaning of My name is 𝐕𝐢𝐜𝐭𝐨𝐫𝐢𝐨𝐮𝐬. Yeah You are thinking Right I am 𝐀𝐳𝐟𝐚𝐫 𝐀𝐥𝐚𝐦. Intend to build a career with committed & dedicated people, who will help me to explore myself and understand my potential. Willing to work as a key player in challenging and creative environment with all my professional and technical skills.</p>
+
+### <p align="center">My Technical Skills</p>
+
+<p align="center">
+  <a href="https://mdazfar2.netlify.app">
+    <img src="https://skillicons.dev/icons?i=aws,docker,linux,ansible,jenkins,kubernetes,grafana,git" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://mdazfar2.netlify.app">
+    <img src="https://skillicons.dev/icons?i=azure,openshift,python,prometheus,gitlab,c,java,ruby,wordpress" />
+  </a>
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<div>
+
+<i>&nbsp; Work with Optimism, Hope for the Best!</i><br><br>
+
+👋 Greetings! It's great to have you here. I'm Azfar Alam, an enthusiastic DevOps Engineer hailing from India.
+
+🎯 As the Co-Founder of [Emanate](https://emanate.co.in), I've driven the creation of a pioneering platform that reimagines how investors and startups collaborate. Emanate isn't just a platform; it's a dynamic community and vital funding contributions. Our innovative concept introduces the “First Social Media Platform for Investor and Startups,” Empowering investors with comprehensive insights into registered startups.
+
+🏆 As a Technical Volunteer at LinuxWorld Informatics Pvt Ltd, I lead 50+ online learners orchestrating tasks, teaching DevOps, and enhancing skills in CI/CD, and cloud tech. Beyond leadership, I thrive as a troubleshooter, unraveling technical challenges and leaving a lasting impact on careers.
+
+🎓 &nbsp; I'm pursuing Bachelor of Technology with a degree in Computer Science, and also maintaining [Emanate: Sharing Startup Dreams](www.emanate.co.in).
+
+🚀 &nbsp; 
+
+🔖 &nbsp; I am busy writing articles on use cases across various industries and technologies on [medium](https://medium.com/@azfaralam).
+
+🔥 &nbsp;
+
+🎁 
+
+😄 &nbsp; 
+
+</div>
+
+<br>
+
+</details>
+
+<br><br>
+
+## Latest Blog Posts  
+
+<a href="https://medium.com/@azfaralam"><img src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
+
+<!-- BLOG-POST-LIST:START -->
+- [How Industries are Solving challenges using Ansible?](https://medium.com/@azfaralam/how-industries-are-solving-challenges-using-ansible-53c951ce105)
+- [How is Kubernetes used in industries, and what use cases are solved by Kubernetes?](https://medium.com/@azfaralam/how-is-kubernetes-used-in-industries-and-what-use-cases-are-solved-by-kubernetes-1692ba4b13cc)
+- [Mapping Industry Landscapes: A Comprehensive Study on Jenkins Adoption Across Companies!](https://medium.com/@azfaralam/mapping-industry-landscapes-a-comprehensive-study-on-jenkins-adoption-across-companies-bcfafb4e91d)
+- [Transforming Industries: The Power of Natural Language Processing (NLP) in the Age of AI](https://medium.com/@azfaralam/transforming-industries-the-power-of-natural-language-processing-nlp-in-the-age-of-ai-b159a0738344)
+- [OpenShift Use Cases | Real-Time Industry Based Case Studies | Why Openshift](https://medium.com/@azfaralam/openshift-use-cases-real-time-industry-based-case-studies-fff064af0e3b)
+- [Mastering Prompt Engineering: Optimizing Conversations with ChatGPT](https://medium.com/@azfaralam/unlocking-the-power-of-chat-gpt-through-effective-prompt-engineering-2d72c3655e03)
+<!-- BLOG-POST-LIST:END -->
+
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+
+<br>
+<hr>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdazfar2&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="mdazfar2" />
+
+</details>                     
+<br>
+<hr>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- My Socials ---------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> The Online Hangout
+
+<div align="center">
+  <a href="http://www.linkedin.com/in/md-azfar-alam"><img src="https://img.shields.io/badge/linkedin-0A0209?style=for-the-badge&logo=linkedin&logoColor=d5d5d5" /></a>
+  <br>
+  <a href="https://medium.com/@azfaralam/"><img src="https://img.shields.io/badge/-medium-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"/></a>
+  <a href="https://instagram.com/azfarxx_?utm_source=qr&igshid=OGIxMTE0OTdkZA=="><img src="https://img.shields.io/badge/instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209"/></a> 
+  <br> 
+  <a href="https://www.facebook.com/mdazfar2/"><img src="https://img.shields.io/badge/facebook-0A0209?style=for-the-badge&logo=facebook&logoColor=d5d5d5" /></a>
+  <a href="https://app.daily.dev/azfaralam/"><img src="https://img.shields.io/badge/daily.dev-0A0209?style=for-the-badge&logo=daily.dev&logoColor=d5d5d5" /></a>
+  <a href="https://twitter.com/AzfarAlam22"><img src="https://img.shields.io/badge/twitter-0A0209?style=for-the-badge&logo=twitter&logoColor=d5d5d5" /></a> 
+  <br>
+  <a href="https://www.linkedin.com/in/md-azfar-alam/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
+  <a href="mdazfaralam440@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  <a href="https://discordapp.com/users/877531143610708028"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Azfar Alam#6950" >
+  
+</div>
+
+<hr>
+
+<br><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdazfar2&show_icons=true&locale=en&theme=ayu-mirage" alt="mdazfar2" /></a> </p>
 
@@ -35,5 +138,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdazfar2&" alt="mdazfar2" /></p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdazfar2&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="mdazfar2" />
-</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
