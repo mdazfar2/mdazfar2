@@ -129,13 +129,13 @@
 
 <br><br>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdazfar2&" alt="mdazfar2" /></p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdazfar2&show_icons=true&locale=en&theme=ayu-mirage" alt="mdazfar2" /></a> </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdazfar2&show_icons=true&locale=en&layout=compact" alt="mdazfar2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdazfar2&show_icons=true&locale=en" alt="mdazfar2" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdazfar2&" alt="mdazfar2" /></p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
