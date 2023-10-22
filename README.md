@@ -66,15 +66,6 @@
 🎁 
 
 😄 &nbsp; 
-
-</div>
-
-<br>
-
-</details>
-
-<br><br>
-
 ## Latest Blog Posts  
 
 <a href="https://medium.com/@azfaralam"><img src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
@@ -129,7 +120,10 @@
 
 <br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdazfar2&" alt="mdazfar2" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdazfar2&" alt="mdazfar2" />
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdazfar2&show_icons=true&locale=en&theme=ayu-mirage" alt="mdazfar2" /></a> </p>
 
