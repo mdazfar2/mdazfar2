@@ -57,7 +57,7 @@
 
 🎓 &nbsp; I'm pursuing Bachelor of Technology with a degree in Computer Science, and also maintaining [Emanate: Sharing Startup Dreams](www.emanate.co.in).
 
-🚀 &nbsp; 
+🚀 &nbsp; With an impressive following of 6k+ enthusiasts on [LinkedIn](https://www.linkedin.com/in/md-azfar-alam/), I'm an avid aficionado on a mission to cultivate a thriving community of tech enthusiasts. In a vibrant tapestry of innovation and knowledge through prolific sharing of projects and blogs, my [LinkedIn](https://www.linkedin.com/in/md-azfar-alam/) presence invites others to join the ever-evolving conversation in the world of technology.
 
 🔖 &nbsp; I am busy writing articles on use cases across various industries and technologies on [medium](https://medium.com/@azfaralam).
 
