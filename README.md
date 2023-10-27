@@ -110,7 +110,7 @@
   <a href="https://app.daily.dev/azfaralam/"><img src="https://img.shields.io/badge/daily.dev-0A0209?style=for-the-badge&logo=daily.dev&logoColor=d5d5d5" /></a>
   <a href="https://twitter.com/AzfarAlam22"><img src="https://img.shields.io/badge/twitter-0A0209?style=for-the-badge&logo=twitter&logoColor=d5d5d5" /></a> 
   <br>
-  <a href="https://www.linkedin.com/in/md-azfar-alam/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
+  <a href="https://azfaralam.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-d5d5d5?style=for-the-badge&logo=hashnode&logoColor=0A0209"/></a>
   <a href="mdazfaralam440@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
   <a href="https://discordapp.com/users/877531143610708028"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Azfar Alam#6950" >
   
