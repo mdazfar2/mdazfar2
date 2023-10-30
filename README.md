@@ -123,9 +123,8 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdazfar2&" alt="mdazfar2" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdazfar2&theme=dark&hide_border=false" alt="mdazfar2" />
 </p>
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdazfar2&show_icons=true&locale=en&theme=ayu-mirage" alt="mdazfar2" /></a> </p>
 
