@@ -30,7 +30,7 @@
 
 <p align="center"> Meaning of My name is 𝐕𝐢𝐜𝐭𝐨𝐫𝐢𝐨𝐮𝐬. Yeah You are thinking Right I am 𝐀𝐳𝐟𝐚𝐫 𝐀𝐥𝐚𝐦. Intend to build a career with committed & dedicated people, who will help me to explore myself and understand my potential. Willing to work as a key player in challenging and creative environment with all my professional and technical skills.</p>
 
-### <p align="center">My Technical Skills</p>
+### <p align="center">My Technical Skill</p>
 
 <p align="center">
   <a href="https://mdazfar2.netlify.app">
