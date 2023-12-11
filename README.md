@@ -152,7 +152,7 @@
         
           
         
- <details>
+ <Expand>
 <p align="center">
   <a href="https://github.com/mdazfar2">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdazfar2&theme=transparent" />
