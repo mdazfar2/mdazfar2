@@ -151,8 +151,9 @@
 --------------------------------------------------------------------------------------------- -->      
         
           
-        
- <Expand>
+
+      
+ <details>
 <p align="center">
   <a href="https://github.com/mdazfar2">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdazfar2&theme=transparent" />
@@ -164,6 +165,9 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdazfar2&theme=transparent" />
   </a>
   <a href="https://github.com/mdazfar2">
+
+
+
 
 
 
