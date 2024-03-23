@@ -188,8 +188,14 @@
   </a>
   <a href="https://github.com/mdazfar2">
 
+  <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-
- <!--  ![snake gif](https://github.com/mdazfar2/mdazfar2/blob/output/github-contribution-grid-snake.svg) -->
-
-
+ <!-- <div align="center">
+  <h2>Snake eats my contributions 🥲🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div> -->
