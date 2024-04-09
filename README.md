@@ -82,13 +82,24 @@
 <!-- BLOG-POST-LIST:END -->
 
 
+<!------------------   -------------------------------------------------------------------- -->
+<!---------------- Recommend Blog Post ----------------------------------------------------- -->
+<!---------------------  ------------------------------------------------------------------- -->
+
+
+
+
+<!------------------   -------------------------------------------------------------------- -->
+<!----------------[END] Recommend Blog Post ----------------------------------------------------- -->
+<!---------------------  ------------------------------------------------------------------- -->
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 <samp>Trying to touch and learn 1 new thing everyday!</samp>
 ---
 
-<h3 align="center">
-  <samp>&gt;  My Tech Stack</samp>
-</h3>
+# Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
  <samp>Tools & Technologies</samp> |  <samp>Badge</samp> |
 --- | --- |
@@ -101,7 +112,8 @@
 <samp>Version Control</samp> | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
 <samp>Servers</samp> | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)|
 <samp>Databases</samp> | ![mysql](https://img.shields.io/badge/mysql-%234ea94b.svg?style=for-the-badge&logo=mysql&logoColor=white)|
----
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -174,8 +186,9 @@
         
           
 
-      
- <details>
+<br>      
+<details>
+  
 <p align="center">
   <a href="https://github.com/mdazfar2">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdazfar2&theme=transparent" />
@@ -187,6 +200,10 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdazfar2&theme=transparent" />
   </a>
   <a href="https://github.com/mdazfar2">
+
+</details>
+
+<br><br>
 
   <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
