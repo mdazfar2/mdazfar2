@@ -160,10 +160,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdazfar2&theme=dark&hide_border=false" alt="mdazfar2" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdazfar2&show_icons=true&locale=en&theme=ayu-mirage" alt="mdazfar2" /></a> </p>
 
 
-## MY GITHUB STATS -
+# Github Stats
 
 <!-- ---------------------------------------STATS------------------------------------------
 --------------------------------------------------------------------------------------------- -->
@@ -175,7 +174,6 @@
                 alt="mdazfar2" height="170" /></p>
                 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 <img src="https://img.shields.io/github/followers/mdazfar2.svg?style=social&amp;label=Follow"
@@ -209,10 +207,8 @@
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
- <!-- <div align="center">
-  <h2>Snake eats my contributions 🥲🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
-</div> -->
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
