@@ -55,7 +55,7 @@
 
 🎯 As the Co-Founder of [Emanate](https://emanate.co.in), I've driven the creation of a pioneering platform that reimagines how investors and startups collaborate. Emanate isn't just a platform; it's a dynamic community and vital funding contributions. Our innovative concept introduces the “First Social Media Platform for Investor and Startups,” Empowering investors with comprehensive insights into registered startups.
 
-🏆 As a Technical Volunteer at [LinuxWorld Informatics Pvt Ltd](https://www.lwindia.com/), I lead 25+ online learners orchestrating tasks, teaching DevOps, and enhancing skills in CI/CD, and cloud tech. Beyond leadership, I thrive as a troubleshooter, unraveling technical challenges and leaving a lasting impact on careers.
+🏆 As a Technical Volunteer at [LinuxWorld Informatics Pvt Ltd](https://www.lwindia.com/), I lead 100+ online learners orchestrating tasks, teaching DevOps, and enhancing skills in CI/CD, and cloud tech. Beyond leadership, I thrive as a troubleshooter, unraveling technical challenges and leaving a lasting impact on careers.
 
 🎓 &nbsp; I'm pursuing Bachelor of Technology with a degree in Computer Science, and also maintaining [Emanate: Sharing Startup Dreams](www.emanate.co.in).
 
