@@ -16,7 +16,7 @@
   <a href="http://www.linkedin.com/in/md-azfar-alam/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
   <a href="mailto:mdazfaralam440@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
   <a href="https://discordapp.com/users/877531143610708028"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Azfar Alam#6950" ></a>
-  <a href="https://twitter.com/AzfarAlam22"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" alt="AzfarAlam22" ></a>
+  <a href="https://twitter.com/mdazfar_2"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="mdazfar_2" ></a>
 </div>
 <br>
 
@@ -51,21 +51,19 @@
 
 👋 Greetings! It's great to have you here. I'm Azfar Alam, an enthusiastic DevOps Engineer hailing from India..
 
-🚀 As the Founder of [HelpOps-Hub](https://www.helpopshub.com/), I created HelpOps-Hub to prevent anyone from getting stuck in DevOps. When I was learning DevOps, I encountered many errors with various tools and technologies that I couldn't solve by myself. It took a lot of time to resolve these issues, so I created HelpOps-Hub to save others from wasting their time on these errors. As the founder of HelpOps-Hub, I invite everyone to join our platform, share their experiences with DevOps tools and technologies, provide solutions to errors, and learn how to resolve issues quickly.
+🚀 As the Founder of [HelpOps-Hub](https://www.helpopshub.com/), I created the platform to help DevOps learners avoid time-consuming errors by sharing solutions. I invite everyone to join, share experiences, and learn effective troubleshooting.
 
-🏆 As a Technical Volunteer at [LinuxWorld Informatics Pvt Ltd](https://www.lwindia.com/), I lead 100+ online learners orchestrating tasks, teaching DevOps, and enhancing skills in CI/CD, and cloud tech. Beyond leadership, I thrive as a troubleshooter, unraveling technical challenges and leaving a lasting impact on careers.
-
-🎓 &nbsp; I'm pursuing Bachelor of Technology with a degree in Computer Science, and also maintaining [Emanate: Sharing Startup Dreams](www.emanate.co.in).
+🎓 &nbsp; I'm pursuing Bachelor of Technology with a degree in Computer Science, and also maintaining [Emanate: Innovate, Connect, Fund](www.emanate.co.in).
 
 🔥 &nbsp; With an impressive following of 10k+ on [Linkedin](https://www.linkedin.com/in/md-azfar-alam/), I post a lot of DevOps technology content, various technology-related projects, and ideas for integrating different technologies.
 
 🔖 &nbsp; I am busy writing articles on use cases across various industries and technologies on [medium](https://medium.com/@azfaralam).
 
-🔥 &nbsp; I also write my articles on [Hashnode](https://azfaralam.hashnode.dev/) so that I don't face any problems in the future. For example, if I learn something new in DevOps technology today, I write the whole thing step-by-step in my [Hashnode blog article](https://azfaralam.hashnode.dev/) with screenshots so that I can refer to it in the future and understand it immediately. It can help others too.
+🔥 &nbsp; I document my DevOps learnings step-by-step on [Hashnode](https://azfaralam.hashnode.dev/) with screenshots for future reference and easy understanding, creating a resource that also helps others in the field.
 
-😄 &nbsp; My standout strength lies in my unwavering adaptability—a dynamic force that transforms challenges into opportunities. Coupled with a relentless passion for continuous learning, I thrive in pushing boundaries, embracing innovation, and consistently delivering results that exceed expectations. 
+💡 &nbsp; Fueled by real-world challenges, I’m always exploring how technology can solve practical problems—driving solutions that bridge the gap between ideas and impactful outcomes.
 
-🎁 Empathy is my compass—guiding collaboration, fostering understanding, and creating a harmonious tapestry in every interaction.
+🧭 &nbsp; Empathy is my compass—guiding collaboration, fostering understanding, and creating a harmonious tapestry in every interaction.
 
 
 <br>
