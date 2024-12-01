@@ -25,7 +25,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="141.25666666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="141.36 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -47,10 +47,10 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">2367</div>
+                                        <div class="value">2368</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 2367 times</div>
+                                <div class="text">Repositories have been deployed 2368 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -332,7 +332,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 56.8k out of 217m repositories</span>
+                                    <span class="gh">ranked 56.8k out of 221m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">225</div>
                                     </div>
@@ -350,7 +350,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="42.88333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="42.36666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -387,12 +387,12 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 35.1k out of 150m users</span>
+                                    <span class="gh">ranked 35.2k out of 150m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">283</div>
+                                        <div class="value">282</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 283 users</div>
+                                <div class="text">Followed by 282 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -547,7 +547,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 258k out of 217m repositories</span>
+                                    <span class="gh">ranked 258k out of 221m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">162</div>
                                     </div>
@@ -565,7 +565,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="17.91457286432161 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="18.693467336683415 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -584,10 +584,10 @@
                                     <span class="prefix"></span>
                                     Stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">24</div>
+                                        <div class="value">25</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 24 repositories</div>
+                                <div class="text">Starred 25 repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
