@@ -19,18 +19,18 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="37.48825746593215 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">393</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3449</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="37.572753623188405 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">394</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3450</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="30.747663551401867 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">80</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/856</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="31.09568261376896 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">81</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/857</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
@@ -64,7 +64,7 @@
                     </h2>
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x216</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x95</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x96</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x79</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x57</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x49</span></div>
@@ -79,6 +79,15 @@
                         </svg>
                         Recent submissions
                     </h2>
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                        </svg>
+                        <div class="infos">
+                            <div class="title">Clear Digits</div>
+                            <div class="date">10 Feb 2025</div>
+                        </div>
+                    </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
@@ -113,15 +122,6 @@
                         <div class="infos">
                             <div class="title">Check if One String Swap Can Make Strings Equal</div>
                             <div class="date">5 Feb 2025</div>
-                        </div>
-                    </div>
-                    <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                        </svg>
-                        <div class="infos">
-                            <div class="title">Maximum Ascending Subarray Sum</div>
-                            <div class="date">4 Feb 2025</div>
                         </div>
                     </div>
                 </section>
