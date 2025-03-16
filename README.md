@@ -9,7 +9,7 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmdazfar2%2Fmdazfar2&label=VISITORS&labelColor=%23000&countColor=%23d5d5d5" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmdazfar2%2Fmdazfar2&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
   <br><br>
   <a href="https://medium.com/@azfaralam"><img src="https://img.shields.io/badge/medium-0A0209?style=for-the-badge&logo=medium&logoColor=d5d5d5"/></a>
 <!--   <a href="https://www.showwcase.com/mdazfar2"><img src="https://github.com/mdazfar2/mdazfar2/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a>. -->
