@@ -55,7 +55,7 @@
 
 🚀 As the Founder of [HelpOps-Hub](https://www.helpopshub.com/), I created the platform to help DevOps learners avoid time-consuming errors by sharing solutions. I invite everyone to join, share experiences, and learn effective troubleshooting.
 
-🎓 &nbsp; I'm pursuing Bachelor of Technology with a degree in Computer Science, and also maintaining [Emanate: Innovate, Connect, Fund](www.emanate.co.in).
+🎓 &nbsp; I completed my **Bachelor of Technology in Computer Science** in 2025, and I currently manage [Nexus: Innovate, Connect, Fund](https://github.com/Nexus-lb).
 
 🔥 &nbsp; With an impressive following of 10k+ on [Linkedin](https://www.linkedin.com/in/md-azfar-alam/), I post a lot of DevOps technology content, various technology-related projects, and ideas for integrating different technologies.
 
